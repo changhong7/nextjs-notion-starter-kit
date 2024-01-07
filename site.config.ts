@@ -11,18 +11,10 @@ export default siteConfig({
   // basic site info (required)
   name: '7777',
   domain: 'https://miniature-platypus-b51.notion.site/e6af543588484cd583f767c3b5268391',
-  author: '888888',
+  author: 'Red',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
-
-  // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
-  // mastodon: '#', // optional mastodon profile URL, provides link verification
-  // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
